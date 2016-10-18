@@ -1,5 +1,5 @@
 var xhr = new XMLHttpRequest();
-xhr.open("GET", "https://www.google.com/", false);
+xhr.open("GET", "https://www.codecademy.com/", false);
 xhr.send();
 
 console.log(xhr.status);
